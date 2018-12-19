@@ -8,4 +8,5 @@ public interface TestInterface {
    //在brank-1中添加一个方法
    
    public void fun1();
+   
 }
